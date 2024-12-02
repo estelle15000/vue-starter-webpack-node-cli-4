@@ -26,7 +26,7 @@
         "core-js": "^3.3.6",
         "cors": "^2.8.5",
         "expect": "^24.9.0",
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "express-proxy-server": "^1.0.0",
         "express-session": "^1.16.2",
         "flatted": "^3.1.0",
