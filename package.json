@@ -16,7 +16,7 @@
     "dependencies": {
         "@jeremyhamm/vue-slider": "^0.1.16",
         "apexcharts": "^3.10.1",
-        "axios": "^0.19.0",
+        "axios": "^0.21.1",
         "basic-ftp": "^4.6.2",
         "bcryptjs": "^2.4.3",
         "body-parser": "^1.19.0",
