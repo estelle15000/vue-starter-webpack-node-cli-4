@@ -35,7 +35,7 @@
         "http-proxy-middleware": "^1.0.6",
         "javascript-lp-solver": "^0.4.5",
         "jquery": "^3.4.1",
-        "luxon": "^1.21.3",
+        "luxon": "^1.28.1",
         "moment": "^2.24.0",
         "mongodb": "^3.3.2",
         "mongoose": "^5.10.7",
