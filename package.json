@@ -34,7 +34,7 @@
         "ftp-client": "^0.2.2",
         "http-proxy-middleware": "^1.0.6",
         "javascript-lp-solver": "^0.4.5",
-        "jquery": "^3.4.1",
+        "jquery": "^3.5.0",
         "luxon": "^1.21.3",
         "moment": "^2.24.0",
         "mongodb": "^3.3.2",
